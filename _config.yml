@@ -6,12 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: incredibl.us
 email: tammo@incredibl.us
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Python developers focused on quality code. We write code, we fix code.
+  Need to have your code refactored? We are here to help. Something in your
+  code not working? Let us know and we fix it. Do you need to get data of
+  webpages? We can help.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.incredibl.us" # the base hostname & protocol for your site
 twitter_username: jekyllrb
